@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yuniar</h1>
 <h3 align="center">A Full Stack Engineer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuniarrr&label=Profile%20views&color=0e75b6&style=flat" alt="yuniarrr" /> </p>
+
+<p align="left">My name is Midyanisa Yuniar, and I am currently pursuing a bachelor's degree in Information Technology at the Sepuluh Nopember Institute of Technology. My main interest lies in the field of IT, specifically as a Web Developer. I have several programming skills, including Javascript, Typescript, and some other programming languages. I am also familiar with version control, such as git.</p>
+
 - 🔭 I’m currently studying at **Institute Technology Sepuluh Nopember, Surabaya**
 
 - 📫 How to reach me **mnynoname14@gmail.com**
